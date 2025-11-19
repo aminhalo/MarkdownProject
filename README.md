@@ -8,7 +8,7 @@ This is a git and github project to practice with these tools.
 - [License](#license)
 
 ### Introduction
-
+![Project Logo](images/logo.jpg)
 ### Features
 
 ### Installation
