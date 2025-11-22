@@ -9,6 +9,7 @@ This is a git and github project to practice with these tools.
 
 ### Introduction
 ![Project Logo](images/logo.jpg)
+This is an Introduction
 ### Features
 
 | Feature        | Description                      | Status      |
